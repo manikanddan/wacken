@@ -16,6 +16,27 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: "thedark";
+  src:url("font/thedark.ttf") format("truetype");
+  src:url("font/thedark.eot"),
+  url("font/thedark.woff") format("woff"),
+  url("font/thedark.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  
+}
+
+@font-face {
+  font-family: "Google-spies";
+  src:url("font/Google-spies.ttf") format("truetype");
+  src:url("font/Google-spies.eot"),
+  url("font/Google-spies.woff") format("woff"),
+  url("font/Google-spies.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
 [class^="icon-"]:after,
 [class*=" icon-"]:after {
   font-family: "untitled-font-1";
