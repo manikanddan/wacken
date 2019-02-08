@@ -18,10 +18,10 @@
 
 @font-face {
   font-family: "thedark";
-  src:url("font/thedark.ttf") format("truetype");
-  src:url("font/thedark.eot"),
-  url("font/thedark.woff") format("woff"),
-  url("font/thedark.woff2") format("woff2");
+  src:url("../wacken/font/thedark.ttf") format("truetype");
+  src:url("../wacken/font/thedark.eot"),
+  url("../wacken/font/thedark.woff") format("woff"),
+  url("../wacken/font/thedark.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
   
